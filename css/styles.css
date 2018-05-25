@@ -1,6 +1,7 @@
 body {
   background-color: white;
   font-family: 'Raleway', sans-serif;
+  color: #474747;
 }
 
 .name {
@@ -49,7 +50,7 @@ body {
 }
 
 .important {
-  font-weight: 700;
+  font-weight: 800;
   color: black;
 }
 
@@ -65,6 +66,7 @@ body {
 }
 
 .disabled {
+  color: #afafaf;
   background-color: #494949;
   border-color: #494949;
   margin: 5px;
@@ -91,6 +93,7 @@ body {
 }
 
 .section-titles {
+  color: #232323;
   font-family: 'Abril Fatface', cursive;
   text-align: center;
   padding: 10px;
