@@ -1,0 +1,17 @@
+.profile-pic {
+  height: 200px;
+  float: right;
+  position: relative;
+  top: -150px;
+}
+
+.jumbotron {
+  float: inherit;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.row {
+  text-align: center;
+}
