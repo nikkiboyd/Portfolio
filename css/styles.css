@@ -64,6 +64,13 @@ body {
   margin: 5px;
 }
 
+.disabled {
+  background-color: #494949;
+  border-color: #494949;
+  margin: 5px;
+  pointer-events: none;
+}
+
 .center-this {
   margin: auto;
 }
