@@ -32,3 +32,19 @@
   padding: 20px;
   width: auto;
 }
+
+#psu-pic {
+  width: 64px;
+}
+
+#pmx-pic {
+  width: 90px;
+}
+
+#education {
+ left: -25px;
+}
+
+#job1 {
+  left: -50px;
+}
