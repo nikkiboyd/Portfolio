@@ -53,6 +53,14 @@ body {
   width: auto;
 }
 
+.btn-primary {
+  background-color: #494949;
+  border-color: #494949;
+}
+
+.center-this {
+  margin: auto;
+}
 #psu-pic {
   width: 64px;
 }
@@ -67,9 +75,4 @@ body {
 
 #job1 {
   left: -50px;
-}
-
-.btn-primary {
-  background-color: #494949;
-  border-color: #494949;
 }
