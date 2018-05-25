@@ -11,7 +11,9 @@ _This website is Nikki Boyd's personal portfolio site for distribution to potent
 ## Setup/Installation Requirements
 
 * _Simply open the link below in any web browser._
-*_Link to GH-Pages_
+* _GitHub Pages:_
+* _https://nikkiboyd.github.io/portfolio/_
+
 
 ## Known Bugs
 
