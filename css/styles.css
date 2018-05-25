@@ -9,6 +9,10 @@ body {
   border-color:
 }
 
+.card-subtitle {
+  color: #b5b5b5;
+}
+
 .rounded-circle {
   height: 200px;
   float: left;
