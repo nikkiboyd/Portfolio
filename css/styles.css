@@ -3,6 +3,11 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
+.name {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 70px;
+}
+
 .card {
   background-color: #232323;
   color: white;
@@ -56,6 +61,7 @@ body {
 .btn-primary {
   background-color: #494949;
   border-color: #494949;
+  margin: 5px;
 }
 
 .center-this {
