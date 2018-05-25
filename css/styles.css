@@ -4,6 +4,12 @@ body {
   color: #474747;
 }
 
+a {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+}
 .name {
   font-family: 'Abril Fatface', cursive;
   font-size: 70px;
@@ -76,6 +82,15 @@ body {
 .center-this {
   margin: auto;
 }
+
+.section-titles {
+  color: #232323;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
 #psu-pic {
   width: 64px;
 }
@@ -90,12 +105,4 @@ body {
 
 #job1 {
   left: -50px;
-}
-
-.section-titles {
-  color: #232323;
-  font-family: 'Abril Fatface', cursive;
-  text-align: center;
-  padding: 10px;
-  padding-bottom: 20px;
 }
