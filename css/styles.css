@@ -13,5 +13,9 @@
 }
 
 .row {
-  text-align: center;
+  text-align: left;
+}
+
+.col-md-6 {
+  padding: 30px;
 }
