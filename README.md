@@ -1,6 +1,6 @@
 # _Nikki Boyd's Portfolio Site_
 
-#### _Nikki Boyd's Portfolio. May 25, 2018_
+#### _Nikki Boyd's Portfolio | May 25, 2018_
 
 #### By _**Nikki Boyd**_
 
