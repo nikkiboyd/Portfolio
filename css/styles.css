@@ -49,8 +49,8 @@ body {
 }
 
 .important {
-  font-weight: 500;
-  color: #00635e;
+  font-weight: 700;
+  color: black;
 }
 
 .card {
@@ -81,4 +81,11 @@ body {
 
 #job1 {
   left: -50px;
+}
+
+.section-titles {
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 20px;
 }
